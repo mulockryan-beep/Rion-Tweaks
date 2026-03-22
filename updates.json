@@ -1,0 +1,17 @@
+{
+  "appName": "RionTweaks",
+  "latestVersion": "1.3.6",
+  "mandatory": false,
+  "publishedUtc": "2026-03-22T00:00:00Z",
+  "downloadUrl": "https://your-username.github.io/rion-updates/RionTweaks-1.3.6.msi",
+  "sha256": "CD32A99C362A4D13E15F9B42EE95E112A35EC7FE2E63DF21176598E6E681BCF0",
+  "minSupportedVersion": "1.3.0",
+  "releaseNotes": [
+    "Fix settings persistence reliability with serialized state read/write.",
+    "Fix Discord remember-login persistence and settings sync.",
+    "Harden restore point creation with service start + WMI fallback.",
+    "Improve Defender/Windows Update resource toggles with elevation fallback.",
+    "Add tweak health check report and state backup/open-folder utilities.",
+    "Add Win32PrioritySeparation scheduler tweaks (0x26, 0x2A, 0x18, 0x02)."
+  ]
+}
