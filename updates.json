@@ -3,7 +3,7 @@
   "latestVersion": "1.3.6",
   "mandatory": false,
   "publishedUtc": "2026-03-22T00:00:00Z",
-  "downloadUrl": "https://your-username.github.io/rion-updates/RionTweaks-1.3.6.msi",
+  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.3.6/RionTweaks-1.3.6.msi",
   "sha256": "CD32A99C362A4D13E15F9B42EE95E112A35EC7FE2E63DF21176598E6E681BCF0",
   "minSupportedVersion": "1.3.0",
   "releaseNotes": [
