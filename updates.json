@@ -4,7 +4,7 @@
   "mandatory": false,
   "publishedUtc": "2026-03-22T00:00:00Z",
   "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.3.6/RionTweaks-1.3.6.msi",
-  "sha256": "CD32A99C362A4D13E15F9B42EE95E112A35EC7FE2E63DF21176598E6E681BCF0",
+  "sha256": "03BEC14DA5DAA1E245E08E25D9881FD97E4A031FCD9160590C08FFD45D372A79",
   "minSupportedVersion": "1.3.0",
   "releaseNotes": [
     "Fix settings persistence reliability with serialized state read/write.",
