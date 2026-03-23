@@ -1,13 +1,14 @@
 {
     "appName":  "RionTweaks",
-    "version":  "1.5.7",
-    "latestVersion":  "1.5.7",
+    "version":  "1.5.8",
+    "latestVersion":  "1.5.8",
     "mandatory":  false,
     "publishedUtc":  "2026-03-23T00:00:00Z",
-    "downloadUrl":  "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.7/RionTweaks-1.5.7.msi",
-    "sha256":  "9E2D1FF4F8DBC7283AEF9EBC929823381F2DC7A8DB9F7395BD3AA779C190F822",
+    "downloadUrl":  "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.8/RionTweaks-1.5.8.msi",
+    "sha256":  "EC364F120F205527D3ECE90232365BE5B0B0BCA18351389963010DFE980ED8DD",
     "minSupportedVersion":  "1.3.0",
     "releaseNotes":  [
+                         "1.5.8 - Added applied/total tweak counter, removed non-working History/Discord Guide/Owner Panel UI, and improved screen/list animations.",
                          "1.5.7 - Fixed update flow to always compare against running assembly version and keep automatic checks working after earlier upgrades.",
                          "1.5.6 - Hardening pass: reliable state persistence, startup save-race guards, and Discord secret moved to environment variable.",
                          "1.5.5 - Fixed local profile save/load, login persistence reliability, tweak health check crash, and settings persistence across restarts/updates.",
