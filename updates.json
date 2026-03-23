@@ -1,13 +1,14 @@
 {
     "appName":  "RionTweaks",
-    "version":  "1.6.0",
-    "latestVersion":  "1.6.0",
+    "version":  "1.6.1",
+    "latestVersion":  "1.6.1",
     "mandatory":  false,
     "publishedUtc":  "2026-03-23T00:00:00Z",
-    "downloadUrl":  "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.6.0/RionTweaks-1.6.0.msi",
-    "sha256":  "5EB5BE04E83C3654B16AE507E4389A8B701745350B9705DD378115677E5700C4",
+    "downloadUrl":  "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.6.1/RionTweaks-1.6.1.msi",
+    "sha256":  "032C72F3CB57FB7DD57BAA04C02833C0A7993C504C9D1B7EFEA324D91C443DF2",
     "minSupportedVersion":  "1.3.0",
     "releaseNotes":  [
+                         "1.6.1 - Removed metrics/health check/state folder, WiFi fix + DISM/SFC checker + deep cleanup resources, 9 game quick launch, real-time registry tweak state detection.",
                          "1.6.0 - 5 dropdown tweaks, tier-specific power plans, profiles removed, blue glow UI, update check every launch, MSI auto-launch after install.",
                          "1.5.9 - Added uninstall/debloat options (Edge, Copilot apps, Microsoft 365 apps) plus tier summary panel and extra UI animations.",
                          "1.5.8 - Added applied/total tweak counter, removed non-working History/Discord Guide/Owner Panel UI, and improved screen/list animations.",
