@@ -1,19 +1,20 @@
 {
-  "appName": "RionTweaks",
-  "version": "1.5.3",
-  "latestVersion": "1.5.3",
-  "mandatory": false,
-  "publishedUtc": "2026-03-22T12:00:00Z",
-  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.3/RionTweaks-1.5.3.msi",
-  "sha256": "058C392C94824FF2027646A2620A8731E0A6879C8CF0A076520CCF79FC4A7F98",
-  "minSupportedVersion": "1.3.0",
-  "releaseNotes": [
-    "1.5.3 - Single Win32 Priority Separation tweak with hex dropdown; recommended 0x26 shows blue glow. Bump patch on each release.",
-    "1.5.2 - Cleaned UI (removed FPS overlay, dependency checker, accent picker), fixed restore point, theme switching, login persistence, auto-relaunch after update.",
-    "Dashboard: live CPU/GPU/RAM counters, Launch Fortnite/Valorant, View Changelog.",
-    "Settings: Dark/Light/System theme switch, auto-update toggle.",
-    "Login: encrypted local file persistence (DPAPI) survives restarts and updates.",
-    "Auto-update: silent MSI install + automatic re-launch of new version.",
-    "325 tweaks total, 85 Free tier tweaks visible without login."
-  ]
+    "appName":  "RionTweaks",
+    "version":  "1.5.4",
+    "latestVersion":  "1.5.4",
+    "mandatory":  false,
+    "publishedUtc":  "2026-03-23T00:00:00Z",
+    "downloadUrl":  "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.4/RionTweaks-1.5.4.msi",
+    "sha256":  "37308FC0C869845AD69EA9227CA8DA001B6C630CE00EDBA1F36EA061A1998D2D",
+    "minSupportedVersion":  "1.3.0",
+    "releaseNotes":  [
+                         "1.5.4 - Fixed Win32 dropdown apply crash, power plan apply crash, and Discord login persistence after relaunch.",
+                         "1.5.3 - Single Win32 Priority Separation tweak with hex dropdown; recommended 0x26 shows blue glow. Bump patch on each release.",
+                         "1.5.2 - Cleaned UI (removed FPS overlay, dependency checker, accent picker), fixed restore point, theme switching, login persistence, auto-relaunch after update.",
+                         "Dashboard: live CPU/GPU/RAM counters, Launch Fortnite/Valorant, View Changelog.",
+                         "Settings: Dark/Light/System theme switch, auto-update toggle.",
+                         "Login: encrypted local file persistence (DPAPI) survives restarts and updates.",
+                         "Auto-update: silent MSI install + automatic re-launch of new version.",
+                         "325 tweaks total, 85 Free tier tweaks visible without login."
+                     ]
 }
