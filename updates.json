@@ -1,13 +1,14 @@
 {
   "appName": "RionTweaks",
-  "latestVersion": "1.5.0",
+  "version": "1.5.1",
+  "latestVersion": "1.5.1",
   "mandatory": false,
   "publishedUtc": "2026-03-22T00:00:00Z",
-  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.0/RionTweaks-1.5.0.msi",
-  "sha256": "2331C1F568B358F1F2995BAF99669F47EF23B945636BA0DCF74F6E27DF0FC184",
+  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.1/RionTweaks-1.5.1.msi",
+  "sha256": "FC54F4F7F1FDCE586E4E3E1E9C2845779127A53123CE43B8DF2381A145820149",
   "minSupportedVersion": "1.3.0",
   "releaseNotes": [
-    "1.5.0 - Tiered Power Plans, Win32 dropdown with glow, new Dashboard & Profile tabs, animated Pro background, full state persistence & persistent Discord login",
+    "1.5.1 - Startup updater before main window, timed auto-dismiss prompt, silent MSI install, and hardened launch stability",
     "Dashboard includes live CPU/GPU/RAM counters and toggleable FPS overlay.",
     "Added profile manager for local JSON save/load and cloud sync bridge.",
     "Added dependency checker, in-app changelog viewer, and one-click game launch shortcuts.",
