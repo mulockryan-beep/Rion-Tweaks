@@ -1,17 +1,17 @@
 {
   "appName": "RionTweaks",
-  "latestVersion": "1.3.6",
+  "latestVersion": "1.4.0",
   "mandatory": false,
   "publishedUtc": "2026-03-22T00:00:00Z",
-  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.3.6/RionTweaks-1.3.6.msi",
-  "sha256": "03BEC14DA5DAA1E245E08E25D9881FD97E4A031FCD9160590C08FFD45D372A79",
+  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.4.0/RionTweaks-1.4.0.msi",
+  "sha256": "2FDCB8CC90A0DF5D5D812B479E3A2E257096ECF88DD118C3C1A783B722BDA49D",
   "minSupportedVersion": "1.3.0",
   "releaseNotes": [
-    "Fix settings persistence reliability with serialized state read/write.",
-    "Fix Discord remember-login persistence and settings sync.",
-    "Harden restore point creation with service start + WMI fallback.",
-    "Improve Defender/Windows Update resource toggles with elevation fallback.",
-    "Add tweak health check report and state backup/open-folder utilities.",
-    "Add Win32PrioritySeparation scheduler tweaks (0x26, 0x2A, 0x18, 0x02)."
+    "Add launch-time real system state sync for all tweak toggles.",
+    "Add secure persistent Discord login with Windows Credential Vault.",
+    "Add updater flow to download and launch MSI installer directly.",
+    "Add Privacy & AI tweak category and new privacy-focused tweak set.",
+    "Add Win32PrioritySeparation competitive profile tweak (0x26).",
+    "Improve settings persistence and restore-point reliability."
   ]
 }
