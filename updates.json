@@ -1,17 +1,16 @@
 {
   "appName": "RionTweaks",
-  "latestVersion": "1.4.0",
+  "latestVersion": "1.5.0",
   "mandatory": false,
   "publishedUtc": "2026-03-22T00:00:00Z",
-  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.4.0/RionTweaks-1.4.0.msi",
-  "sha256": "2FDCB8CC90A0DF5D5D812B479E3A2E257096ECF88DD118C3C1A783B722BDA49D",
+  "downloadUrl": "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.0/RionTweaks_1.5.0.msi",
+  "sha256": "FBCCAB039F8EDDF866D5D1471ECAAEB23E60419B83A29E2378DE380F6C671511",
   "minSupportedVersion": "1.3.0",
   "releaseNotes": [
-    "Add launch-time real system state sync for all tweak toggles.",
-    "Add secure persistent Discord login with Windows Credential Vault.",
-    "Add updater flow to download and launch MSI installer directly.",
-    "Add Privacy & AI tweak category and new privacy-focused tweak set.",
-    "Add Win32PrioritySeparation competitive profile tweak (0x26).",
-    "Improve settings persistence and restore-point reliability."
+    "1.5.0 - Tiered Power Plans, Win32 dropdown with glow, new Dashboard & Profile tabs, animated Pro background, full state persistence & persistent Discord login",
+    "Dashboard includes live CPU/GPU/RAM counters and toggleable FPS overlay.",
+    "Added profile manager for local JSON save/load and cloud sync bridge.",
+    "Added dependency checker, in-app changelog viewer, and one-click game launch shortcuts.",
+    "Auto-update flow remains manifest-based and supports silent MSI launch."
   ]
 }
