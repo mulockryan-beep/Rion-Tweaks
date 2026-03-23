@@ -1,13 +1,14 @@
 {
     "appName":  "RionTweaks",
-    "version":  "1.5.4",
-    "latestVersion":  "1.5.4",
+    "version":  "1.5.5",
+    "latestVersion":  "1.5.5",
     "mandatory":  false,
     "publishedUtc":  "2026-03-23T00:00:00Z",
-    "downloadUrl":  "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.4/RionTweaks-1.5.4.msi",
-    "sha256":  "37308FC0C869845AD69EA9227CA8DA001B6C630CE00EDBA1F36EA061A1998D2D",
+    "downloadUrl":  "https://github.com/mulockryan-beep/Rion-Tweaks/releases/download/v1.5.5/RionTweaks-1.5.5.msi",
+    "sha256":  "D6425190A448BE4A652974AF65692ED4C0B0A1AFE490BDCE9ECAB292EEC4C919",
     "minSupportedVersion":  "1.3.0",
     "releaseNotes":  [
+                         "1.5.5 - Fixed local profile save/load, login persistence reliability, tweak health check crash, and settings persistence across restarts/updates.",
                          "1.5.4 - Fixed Win32 dropdown apply crash, power plan apply crash, and Discord login persistence after relaunch.",
                          "1.5.3 - Single Win32 Priority Separation tweak with hex dropdown; recommended 0x26 shows blue glow. Bump patch on each release.",
                          "1.5.2 - Cleaned UI (removed FPS overlay, dependency checker, accent picker), fixed restore point, theme switching, login persistence, auto-relaunch after update.",
